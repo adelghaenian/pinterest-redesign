@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pinterest-redesign/static/css/main.a8e0e4f6.css",
-    "main.js": "/pinterest-redesign/static/js/main.a8970a13.js",
-    "static/js/787.72a203c2.chunk.js": "/pinterest-redesign/static/js/787.72a203c2.chunk.js",
+    "main.js": "/pinterest-redesign/static/js/main.cdde5101.js",
+    "static/js/787.9ac3608b.chunk.js": "/pinterest-redesign/static/js/787.9ac3608b.chunk.js",
     "static/media/pinterest.svg": "/pinterest-redesign/static/media/pinterest.210377475ac23f1bfa7a17dd4d4f8dea.svg",
     "index.html": "/pinterest-redesign/index.html",
     "static/media/view_uneven.svg": "/pinterest-redesign/static/media/view_uneven.796ec05f2d9dac1314764b9d69c3bdfd.svg",
@@ -10,11 +10,11 @@
     "static/media/view_thumbnail.svg": "/pinterest-redesign/static/media/view_thumbnail.3e0975a1f9aaba621a6f7c5a50983ed0.svg",
     "static/media/view_detailed.svg": "/pinterest-redesign/static/media/view_detailed.8558052040a237951999de3f65b6d9cd.svg",
     "main.a8e0e4f6.css.map": "/pinterest-redesign/static/css/main.a8e0e4f6.css.map",
-    "main.a8970a13.js.map": "/pinterest-redesign/static/js/main.a8970a13.js.map",
-    "787.72a203c2.chunk.js.map": "/pinterest-redesign/static/js/787.72a203c2.chunk.js.map"
+    "main.cdde5101.js.map": "/pinterest-redesign/static/js/main.cdde5101.js.map",
+    "787.9ac3608b.chunk.js.map": "/pinterest-redesign/static/js/787.9ac3608b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8e0e4f6.css",
-    "static/js/main.a8970a13.js"
+    "static/js/main.cdde5101.js"
   ]
 }
